@@ -1,1 +1,1 @@
-console.log('tag')
+console.log('easy code')
